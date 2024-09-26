@@ -14,7 +14,7 @@ The following two public datasets were used in our experiment:
 
 ## ESRGAN
 
-The detailed implementation of ESR‐Generative Adversarial Networks is available at [Code 📁](https://github.com/abdurrahman4127/UnsupervisedSkinCancerClassification/tree/main/ESRGAN), and the other experimented GAN-based image enhancer pretrained model can be found [Here 📁](https://github.com/abdurrahman4127/UnsupervisedSkinCancerClassification/tree/main/Pretrained GAN-based Models).
+The detailed implementation of ESR‐Generative Adversarial Networks is available at [Code 📁](https://github.com/abdurrahman4127/UnsupervisedSkinCancerClassification/tree/main/ESRGAN), and the other experimented GAN-based image enhancer pretrained models can be downloaded using scripts at [.sh 📁](https://github.com/abdurrahman4127/UnsupervisedSkinCancerClassification/tree/main/Pretrained%20GAN-based%20Models).
 
 ##### ESRGAN Output:
 ![esrgan_op](/images/esrgan_output.png)
